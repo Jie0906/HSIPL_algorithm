@@ -5,10 +5,14 @@
 3. CEM演算法
 
 ## 安裝相關套件
+```python3
 pip3 install -r requirements.txt
+```
 
 ## 執行.py(以CEM為例)
+```python3
 python3 CEM.py
+```
 
 ## 程式執行
 1.初始蘋果圖
