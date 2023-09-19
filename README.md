@@ -1,7 +1,7 @@
 # Yuntech HSIPL Lab 1st H.W
 ## Content
 1. SAM演算法
-2. SAM演算法
+2. SID演算法
 3. CEM演算法
 
 ## 安裝相關套件
